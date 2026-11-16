@@ -1,0 +1,28 @@
+{
+  "name": "ai-testers-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam91091/ai-testers-2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adam91091/ai-testers-2.0/issues"
+  },
+  "homepage": "https://github.com/adam91091/ai-testers-2.0#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
